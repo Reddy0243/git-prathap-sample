@@ -1,3 +1,6 @@
 public class text
 {
+    public void m1(){
+  Syso("hello");
+}
 }
